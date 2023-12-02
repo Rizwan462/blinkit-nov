@@ -12,13 +12,13 @@
 #nav-delivery>h5{
     margin: 0;
     font-weight: 800;
+    
 }
 #nav-delivery>p{
     margin: 0;
 }
-nav{
-    position: fixed;
-}
+
+
 #search-input{
     border: 1px solid #EEEEEE;
     background-color: #F8F8F8;
